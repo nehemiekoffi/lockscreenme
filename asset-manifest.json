@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/lockscreenme/static/css/main.5f361e03.chunk.css",
-    "main.js": "/lockscreenme/static/js/main.415e7dfc.chunk.js",
-    "main.js.map": "/lockscreenme/static/js/main.415e7dfc.chunk.js.map",
+    "main.css": "/lockscreenme/static/css/main.58a10c4e.chunk.css",
+    "main.js": "/lockscreenme/static/js/main.127387d1.chunk.js",
+    "main.js.map": "/lockscreenme/static/js/main.127387d1.chunk.js.map",
     "runtime-main.js": "/lockscreenme/static/js/runtime-main.d39264af.js",
     "runtime-main.js.map": "/lockscreenme/static/js/runtime-main.d39264af.js.map",
-    "static/js/2.715418f3.chunk.js": "/lockscreenme/static/js/2.715418f3.chunk.js",
-    "static/js/2.715418f3.chunk.js.map": "/lockscreenme/static/js/2.715418f3.chunk.js.map",
+    "static/css/2.c25c03de.chunk.css": "/lockscreenme/static/css/2.c25c03de.chunk.css",
+    "static/js/2.baec12a1.chunk.js": "/lockscreenme/static/js/2.baec12a1.chunk.js",
+    "static/js/2.baec12a1.chunk.js.map": "/lockscreenme/static/js/2.baec12a1.chunk.js.map",
     "index.html": "/lockscreenme/index.html",
-    "precache-manifest.d301fb433229b4d260d7179257c0868b.js": "/lockscreenme/precache-manifest.d301fb433229b4d260d7179257c0868b.js",
+    "precache-manifest.24612c5163b13c5350f23a945bfdd24e.js": "/lockscreenme/precache-manifest.24612c5163b13c5350f23a945bfdd24e.js",
     "service-worker.js": "/lockscreenme/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/lockscreenme/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.715418f3.chunk.js.LICENSE.txt": "/lockscreenme/static/js/2.715418f3.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/lockscreenme/static/media/logo.5d5d9eef.svg"
+    "static/css/2.c25c03de.chunk.css.map": "/lockscreenme/static/css/2.c25c03de.chunk.css.map",
+    "static/css/main.58a10c4e.chunk.css.map": "/lockscreenme/static/css/main.58a10c4e.chunk.css.map",
+    "static/js/2.baec12a1.chunk.js.LICENSE.txt": "/lockscreenme/static/js/2.baec12a1.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/lockscreenme/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/App.scss": "/lockscreenme/static/media/default-phone-bg.cd9fe36d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d39264af.js",
-    "static/js/2.715418f3.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.415e7dfc.chunk.js"
+    "static/css/2.c25c03de.chunk.css",
+    "static/js/2.baec12a1.chunk.js",
+    "static/css/main.58a10c4e.chunk.css",
+    "static/js/main.127387d1.chunk.js"
   ]
 }
