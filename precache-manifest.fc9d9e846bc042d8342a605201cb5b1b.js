@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df67d66dcf9dfd5eff7b220342cfd953",
+    "revision": "ad0f4baf5dc646f06e6fd5084abab86e",
     "url": "/lockscreenme/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lockscreenme/static/css/2.c25c03de.chunk.css"
   },
   {
-    "revision": "3fa2e73a856cdc213397",
+    "revision": "cef42dbc44e13c4736eb",
     "url": "/lockscreenme/static/css/main.58a10c4e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lockscreenme/static/js/2.baec12a1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3fa2e73a856cdc213397",
-    "url": "/lockscreenme/static/js/main.127387d1.chunk.js"
+    "revision": "cef42dbc44e13c4736eb",
+    "url": "/lockscreenme/static/js/main.2373d79e.chunk.js"
   },
   {
     "revision": "a777fdc41d0ed1d87363",
