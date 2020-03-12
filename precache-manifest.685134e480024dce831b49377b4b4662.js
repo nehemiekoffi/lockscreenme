@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "15d4c122b300522aef7307af71a0eef4",
+    "revision": "5adc0569779552742cdcb069d3005dfe",
     "url": "/lockscreenme/index.html"
   },
   {
