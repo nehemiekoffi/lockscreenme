@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css?family=Sen:400,700,800&display=swap');
+
+
+body, h1, h2,h3, h4, div, input, a, span, button, textarea{
+  font-family: 'Sen', sans-serif !important
+}
+
+input, select, textarea{
+  border-bottom: 2px solid #dedede !important;
+}
+
+body{
+  background-color: #282c34 !important
+}
+
+.App {
+  height: 100%;
+}
+
+.AppContext{
+  padding-bottom: 3em;
+}
+
+.section{
+  padding: 3em 0;
+
+  &.Support-Info{
+    padding: 3em 2em;
+    text-align: center;
+    color: white;
+    background: rgba($color: #000000, $alpha: .3);
+    border-radius: .5em;
+  }
+}
+
+.App-header{
+  padding: 2rem 0;
+  color: white;
+
+  .right.menu{
+    .item{
+      color: white;
+      .button{
+        margin-left: .3em !important;
+      }
+    }
+  }
+
+  .logo{
+    font-size: 2.5em;
+    font-weight: bold;
+    display: block;
+    color: white;
+  }
+
+  .description{
+    text-align: center;
+  }
+}
+
+.App-link {
+  color: #61dafb;
+}
+// .previewContext{
+//   background: #000000;
+//   padding: 1em;
+//   border-radius: .7em;
+// }
+#LockScreenPreview{
+  // margin: 0 auto;
+  position: relative;
+  background: white;
+  // border-radius: .5em;
+  background-image: url(./assets/images/default-phone-bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  .section{
+    padding: .5em 1em;
+    &.personalinfo{
+      color: white;
+    }
+  }
+
+  .theme{
+    position: absolute;
+    width: 100%;
+
+    &.indicator{
+      top: 1%;
+      right: 2%;
+      width: auto !important;
+      font-size: small;
+      color: white;
+      border-radius: 5em;
+      padding: 0 1em;
+      background: rgba($color: #000000, $alpha: .8);
+    }
+
+    &.datetime{
+      text-align: center;
+      top: 10%;
+      color: white;
+
+      .time{
+        font-size: 3.5em;
+        margin-bottom: 0;
+        line-height: 1;
+      }
+      .date{
+        line-height: 1;
+      }
+    }
+
+    &.infos{
+      top: 50%;
+
+      .personalinfo{
+  
+        .name{
+          font-weight: bold;
+        }
+        .bio{
+          font-size: 12px;
+        }
+
+      }
+
+      .contact{
+        background-color: rgba($color: #ffffff, $alpha: .7);
+      }
+
+    }
+
+  }
+
+}
+
+footer{
+  img{
+    margin-bottom: .5em;
+    height: 2em;
+  }
+  margin: 3em 0 1em;
+  text-align: center;
+  line-height: 1.2;
+  color: grey;
+  .logo{
+    font-size: 1.2em;
+    font-weight: bold;
+    color: rgba($color: #ffffff, $alpha: .7);
+  }
+}
