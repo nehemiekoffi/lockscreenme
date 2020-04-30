@@ -4409,6 +4409,10 @@ html-minifier-terser@^5.0.1:
     relateurl "^0.2.7"
     terser "^4.3.9"
 
+html-to-image@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/html-to-image/-/html-to-image-0.1.1.tgz#0db51267b4bbd1bc682a07d8dae44bc431ec6acd"
+
 html-webpack-plugin@4.0.0-beta.11:
   version "4.0.0-beta.11"
   resolved "https://registry.yarnpkg.com/html-webpack-plugin/-/html-webpack-plugin-4.0.0-beta.11.tgz#3059a69144b5aecef97708196ca32f9e68677715"
@@ -5361,8 +5365,8 @@ jest@24.9.0:
     jest-cli "^24.9.0"
 
 jquery@x.*:
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.4.1.tgz#714f1f8d9dde4bdfa55764ba37ef214630d80ef2"
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.5.0.tgz#9980b97d9e4194611c36530e7dc46a58d7340fc9"
 
 js-base64@^2.1.8:
   version "2.5.2"
